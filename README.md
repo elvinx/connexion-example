@@ -1,6 +1,6 @@
 # Simple scikit learn classifier example
 
-* ``classifier``: Directory containing simple Jupyter notebook to train a news classifier and pickled version fo the classifier
+* ``classifier``: Directory containing simple Jupyter notebook to train a news classifier and pickled version of the classifier
 * ``swagger.yaml``: REST API Swagger definition
 * ``app.py``: basic rest endpoints
 * ``requirements.txt``: list of required Python libraries
